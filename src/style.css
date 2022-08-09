@@ -1,12 +1,9 @@
-body {
-  margin: 0;
-}
-
 .groups {
   display: block;
-  margin: 10px 0;
+  margin-bottom: 10px;
 }
 
 .block {
-  margin: 20px 0;
+  margin-bottom: 20px;
+  padding-bottom: 0;
 }
